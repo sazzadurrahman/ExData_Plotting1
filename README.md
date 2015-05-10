@@ -12,4 +12,5 @@ To run this script, please do the following:
 or 
 from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 and extract the data into the working directory
+
 3. Run the scripts
