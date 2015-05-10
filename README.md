@@ -1,6 +1,6 @@
-Exploratory Data Analysis
+<h1>Exploratory Data Analysis</h1>
 
-Course Project 1
+<h2>Course Project 1</h2>
 
 This is my repository of Assignment 1 for the Coursera Course "Exploratory Data Analysis".
 
